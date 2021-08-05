@@ -1,0 +1,18 @@
+
+install java
+
+1.sudo apt update
+2. sudo apt install default-jre
+3.sudo apt install default-jdk
+4.  java -version
+
+
+  change file name
+
+ 1.  mkdir sudha
+ 2.  ls
+ 3.  cd sudha
+ 4.  vi s
+ 5.  ls
+ 6.  cat s
+ 7.  history
